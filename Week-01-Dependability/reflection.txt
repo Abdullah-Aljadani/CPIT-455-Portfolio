@@ -1,0 +1,18 @@
+Topic: Socio-Technical Systems & Dependability
+Case Study: Najm App
+
+1. What I Learned
+
+From this assignment, I learned that software engineering is not only about writing code without bugs. It is about dependability and building trust with users. I also understood that the Najm App is a socio-technical system, where software works together with hardware, people, and real-world processes.
+
+2. Applying the Concepts
+
+I chose availability as the most important attribute because the app must work during accidents. I also considered human errors, such as a stressed driver using the app. I suggested adding an offline mode as a fault tolerance solution in case of internet problems.
+
+3. Challenges
+
+The main challenge was understanding the difference between availability and reliability. Availability means the app is ready to use when needed, while reliability means it works correctly without errors.
+
+4. Personal Growth
+
+This assignment helped me think like a systems engineer, not just a programmer. I now understand the importance of reducing user errors and protecting user data.
