@@ -1,0 +1,8 @@
+Goal 1: Shift my focus from "studying for grades" to "building professional engineering proof" through this portfolio.
+
+Goal 2: Develop a professional engineering mindset by prioritizing system dependability and safety over mere functionality, ensuring every design decision is backed by clear, documented evidence.
+
+Goal 3: Master the 5 attributes of dependability (Availability, Reliability, Safety, Security, and Resilience) and apply them to a real-world project.
+
+Goal 4: Establish a clean, version-controlled workflow using GitHub to track every step of my technical growth.
+
