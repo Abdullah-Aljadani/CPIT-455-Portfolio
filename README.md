@@ -21,17 +21,17 @@ In engineering critical systems, software development is not merely about writin
 
 Here is the systematic breakdown of my weekly engineering deep-dives, architectural analyses, and safety cases:
 
-| Week | Focus Topic | System / Case Study | Key Engineering Artifacts | Link to Reflection |
-| :---: | :--- | :--- | :--- | :---: |
-| **01** | Introduction & Environment Setup | Professional Infrastructure | GitHub Repository & Environment Initialization | [View Reflection](./Week01_Reflection.md) |
-| **03** | Reliability Engineering | Najm Application | POFOD Metric, Redundancy Patterns, Load Spikes | [View Reflection](./Week03_Reflection.md) |
-| **04** | Safety-Critical Systems | Autonomous Braking System | ISO 26262 Analysis, ASIL D Risk Matrix, Fail-Safe Requirements | [View Reflection](./Week04_Reflection.md) |
-| **05** | Security Assurance | Najm Application | Defense-in-Depth, NCA ECC Compliance, SAST/DAST Pipelines | [View Reflection](./Week05_Reflection.md) |
-| **06** | Resilience & Failure Mechanics | Najm Application | Fault-Error-Failure Chain, Swiss Cheese Model, Human-in-the-Loop | [View Reflection](./Week06_Reflection.md) |
-| **07** | Strategic Software Reuse | Najm Application | Software Product Lines (SPL), Ariane 5 Analysis, Type-Safety | [View Reflection](./Week07_Reflection.md) |
-| **08** | Component-Based Engineering | Najm Application | CBSE Strategy, Requires/Provides Contracts, Adapter Pattern | [View Reflection](./Week08_Reflection.md) |
-| **09** | Distributed Cloud Architecture | Najm Application | Topology Node Distribution, Auto-Scaling, Synchronous Replication | [View Reflection](./Week09_Reflection.md) |
-| **10** | Multi-Tier & Middleware Strategy| Najm Application | 3-Tier Task Isolation, API Gateway/Message Queues, Offline Caching | [View Reflection](./Week10_Reflection.md) |
+| Week | Focus Topic | System / Case Study | Key Engineering Artifacts |
+| :---: | :--- | :--- | :--- |
+| **01** | Introduction & Environment Setup | Professional Infrastructure | GitHub Repository & Environment Initialization |
+| **03** | Reliability Engineering | Najm Application | POFOD Metric, Redundancy Patterns, Load Spikes |
+| **04** | Safety-Critical Systems | Autonomous Braking System | ISO 26262 Analysis, ASIL D Risk Matrix, Fail-Safe Requirements |
+| **05** | Security Assurance | Najm Application | Defense-in-Depth, NCA ECC Compliance, SAST/DAST Pipelines |
+| **06** | Resilience & Failure Mechanics | Najm Application | Fault-Error-Failure Chain, Swiss Cheese Model, Human-in-the-Loop |
+| **07** | Strategic Software Reuse | Najm Application | Software Product Lines (SPL), Ariane 5 Analysis, Type-Safety |
+| **08** | Component-Based Engineering | Najm Application | CBSE Strategy, Requires/Provides Contracts, Adapter Pattern |
+| **09** | Distributed Cloud Architecture | Najm Application | Topology Node Distribution, Auto-Scaling, Synchronous Replication |
+| **10** | Multi-Tier & Middleware Strategy| Najm Application | 3-Tier Task Isolation, API Gateway/Message Queues, Offline Caching |
 
 ---
 
