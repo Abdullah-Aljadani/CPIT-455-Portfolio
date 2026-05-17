@@ -1,3 +1,0 @@
-"During the first week, I focused on setting up my professional environment and adopting the HIMMA H-Stack mindset. I realized that software engineering is not just about writing code that works, but about engineering systems that people can trust.
-
-I created my portfolio structure and initiated my GitHub repository to document my journey. The biggest shift for me was understanding that 'Evidence = Clear Thinking.' I am no longer just a student; I am an engineer building a 'Proof of Competence' for my future career."
